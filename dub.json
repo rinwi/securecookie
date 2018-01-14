@@ -1,0 +1,9 @@
+{
+	"name": "securecookie",
+	"authors": [
+		"Rin Dev"
+	],
+	"description": "A dlang implementation of secure cookie",
+	"copyright": "Copyright © 2018, Rin Dev",
+	"license": "BSD 3-clause"
+}
